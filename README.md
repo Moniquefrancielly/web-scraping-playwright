@@ -12,3 +12,4 @@ Install dependencies:
 ```bash
 pip install playwright pandas
 playwright install
+playwright install chromium
